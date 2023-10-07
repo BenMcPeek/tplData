@@ -2,15 +2,15 @@
 Manipulating data obtained from TPL
 https://opendata.tpl.ca
 
-To Do:
-Clean/format TPL data
-Find/generate reference tables - Dates
-Find/generator Geo table
-associate TPL locations to Geo info
-visualize TPL locations in Ontario
+To Do:<br />
+Clean/format TPL data<br />
+Find/generate reference tables - Dates<br />
+Find/generator Geo table<br />
+associate TPL locations to Geo info<br />
+visualize TPL locations in Ontario<br />
 
-Stretch:
-Import/clean/format other Ontario Library branch info
-Link relevant tables for comparison purposes
-associate locations to Geo info
-visualize multiple library systems on same visual
+Stretch:<br />
+Import/clean/format other Ontario Library branch info<br />
+Link relevant tables for comparison purposes<br />
+associate locations to Geo info<br />
+visualize multiple library systems on same visual<br />
